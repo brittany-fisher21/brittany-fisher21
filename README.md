@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brittany</h1>
 <h3 align="center">A passionate Full-Stack Developer based in Atlanta</h3>
 
-- 👨‍💻 All of my projects are available at [brittanybreana.com](brittanybreana.com)
 
-- 📄 Know about my experiences [brittanybreana.com](brittanybreana.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
